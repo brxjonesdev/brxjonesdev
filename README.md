@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **braxtonjonesttsl@gmail.com**
 
-- 📄 Know about my experiences at [/Resume.pdf](/Resume.pdf)
+- 📄 Know about my experiences [Resume](/Resume.pdf)
 
 
 
