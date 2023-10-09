@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Braxton Jones</h1>
-<h3 align="center">A passionate frontend developer from the US</h3>
+<h3 align="center">I build accessible, inclusive and unique experiences for the web.</h3>
 
 - 👨‍💻 All of my projects are available at [https://portfolio.braxtonjones.dev/](https://portfolio.braxtonjones.dev/)
 
