@@ -16,6 +16,13 @@
 					been actively exploring new technologies and 
 					acquiring skills to effectively transform 
 					abstract concepts into tangible realities. </p>
+<h3>Links to my deploys</h3>
+<a href="https://app.netlify.com/sites/braxton-dine-reservation/">Food Reservation App</a>
+<a href="https://app.netlify.com/sites/arch-studios-landing-page/">Landing Page for Arch Studios</a>
+<a href="https://app.netlify.com/sites/braxton-markdown-app/">A Personal Markdown App</a>
+<a href="https://app.netlify.com/sites/invoice-app-brx/">Invoice Tracking</a>
+**Please note that Markdown and Invoice use render.com for thier database. Although Render is a great option, it's free plan doesnt allow for constant uptime. The load time may be long as the server stops after one hour of inactivity.**
+
 
 
 
