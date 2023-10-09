@@ -7,7 +7,9 @@
 
 - 📄 Know about my experiences [Resume](/Resume.pdf)
 
-<p>I started in high school not really knowing what i wanted to do, I joined my school's Cisco Networking program because it was the only computer centric course available to me. I quickly realized that networking was not for me as I enjoy doing something a little more creative and loose. I got a job as a restaurant shift leader to fund my self taught web development journey. I also wasn't sure if this was for me, but i fell in love with the idea of using web development as a medium for my ideas. In 2018, I made the decision to take a 
+<p>I started in high school not really knowing what i wanted to do, I joined my school's Cisco Networking program because it was the only computer centric course available to me. I quickly realized that networking was not for me as I enjoy doing something a little more creative and loose. I got a job as a restaurant shift leader to fund my self taught web development journey. I also wasn't sure if this was for me, but i fell in love with the idea of using web development as a medium for my ideas.</p>
+
+<p>In 2018, I made the decision to take a 
 					leap into learning web development and 
 					transition away from my apprenticeship in 
 					system administration. Since then, I've 
