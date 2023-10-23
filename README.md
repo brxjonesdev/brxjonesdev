@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Braxton Jones</h1>
+<h1 align="center">Hello! 👋, I'm Braxton Jones</h1>
 <h3 align="center">I build accessible, inclusive and unique experiences for the web.</h3>
 <p align="center">
   <a href="https://skillicons.dev">
