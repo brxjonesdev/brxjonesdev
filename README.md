@@ -32,6 +32,6 @@ system administration. Since then, I've been actively exploring new technologies
 <a href="https://app.netlify.com/sites/invoice-app-brx/">Invoice Tracking</a>
 <br>
 <br>
-*Please note that Markdown and Invoice use render.com for thier database. Although Render is a great option, it's free plan doesnt allow for constant uptime. The load time may be long as the server stops after one hour of inactivity.*
+
 
 
