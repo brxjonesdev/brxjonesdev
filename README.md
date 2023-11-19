@@ -22,16 +22,4 @@ system administration. Since then, I've been actively exploring new technologies
 
 
 
-### Featured Projects
-<a href="https://app.netlify.com/sites/braxton-dine-reservation/">Food Reservation App</a> 
-<br>
-<a href="https://app.netlify.com/sites/arch-studios-landing-page/">Landing Page for Arch Studios</a> 
-<br>
-<a href="https://app.netlify.com/sites/braxton-markdown-app/">A Personal Markdown App</a>
-<br>
-<a href="https://app.netlify.com/sites/invoice-app-brx/">Invoice Tracking</a>
-<br>
-<br>
-
-
 
