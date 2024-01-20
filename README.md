@@ -6,19 +6,6 @@
   </a>
 </p>
 
-## About Me
-💫 - I started in high school not really knowing what i wanted to do, 
-I joined my school's Cisco Networking program because it was the 
-only computer centric course available to me. I quickly realized 
-that networking was not for me as I enjoy doing something a 
-little more creative and loose. I got a job as a restaurant 
-shift leader to fund my self taught web development journey. <br>
-
-💫 - I also wasn't sure if this was for me, but i fell in love with the idea of using web development as a medium for my ideas.
-In 2018, I made the decision to take a leap into learning web development and transition away from my apprenticeship in 
-system administration. Since then, I've been actively exploring new technologies and acquiring skills to effectively transform abstract concepts into tangible realities. 
-
-💫 - I'm a passionate and creative individual with a diverse range of interests beyond the world of coding. When I'm not immersed in lines of code, you'll find me exploring my other passions in msuic and web design
 
 
 
