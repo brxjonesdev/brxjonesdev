@@ -6,6 +6,19 @@
   </a>
 </p>
 
+```javascript
+const braxtonJones = {
+  openForOpportunities: true,
+  currentJobTitle: "____",
+  currentlyLearning: ["NextJS", "GSAP"],
+  currentProject: "Recipe Builder",
+  contact: {
+    email: "braxtonjonesdev@gmail.com",
+},
+  interests: ["Music Production", "UI Design", "Making the Internet Weird Again"],
+};
+```
+
 
 
 
