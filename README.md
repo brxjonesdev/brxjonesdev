@@ -1,4 +1,3 @@
-<div style="width: 100%; height: 300px; background-color: yellow;"></div>
 
 <h1 align="center">Hello! 👋, I'm Braxton Jones</h1>
 <h3 align="center">I build accessible, inclusive and unique experiences for the web.</h3>
