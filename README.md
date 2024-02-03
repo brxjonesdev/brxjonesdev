@@ -11,13 +11,20 @@
 const braxtonJones = {
   openForOpportunities: true,
   currentJobTitle: "____",
-  currentlyLearning: ["NextJS", "GSAP", "Typescript"],
+  currentlyLearning: ["GSAP", "Typescript"],
   currentlyWorkingOn: "soloprojdev",
   contact: {
     email: "braxtonjonesdev@gmail.com",
-},
+  },
+  toolkit: {
+    frontend: ["React", "CSS", "JavaScript", "NextJS"],
+    backend: ["Node.js", "Express"],
+    testing: ["Jest","Vitest", "React Testing Library",],
+    database: ["Postgres, SQLite, MongoDB"]
+  },
   interests: ["Music Production", "UI Design", "Making the Internet Weird Again"],
 };
+
 ```
 
 
