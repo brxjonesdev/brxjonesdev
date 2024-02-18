@@ -12,7 +12,6 @@ const braxtonJones = {
   openForOpportunities: true,
   currentJobTitle: "____",
   currentlyLearning: ["GSAP", "Typescript"],
-  currentlyWorkingOn: "soloprojdev",
   contact: {
     email: "braxtonjonesdev@gmail.com",
   },
