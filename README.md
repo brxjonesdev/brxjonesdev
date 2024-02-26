@@ -19,7 +19,7 @@ const braxtonJones = {
     frontend: ["React", "CSS", "JavaScript", "NextJS"],
     backend: ["Node.js", "Express"],
     testing: ["Jest","Vitest", "React Testing Library",],
-    database: ["Postgres, SQLite, MongoDB"]
+    database: ["Postgres, SQLite, MongoDB, "Supabase"]
   },
   interests: ["Music Production", "UI Design", "Making the Internet Weird Again"],
 };
