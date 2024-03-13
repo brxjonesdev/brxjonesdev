@@ -11,10 +11,7 @@
 const braxtonJones = {
   openForOpportunities: true,
   currentJobTitle: "____",
-  currentlyLearning: ["GSAP", "Typescript"],
-  currentlyWorkingOn: {
-    name: "Matchanym"
-  }
+  currentlyLearning: ["Ruby", "Imba"],
   contact: {
     email: "braxtonjonesdev@gmail.com",
   },
@@ -24,7 +21,7 @@ const braxtonJones = {
     testing: ["Jest","Vitest", "React Testing Library",],
     database: ["Postgres", "SQLite", "MongoDB", "Supabase"]
   },
-  interests: ["Music Production", "UI Design", "Making the Internet Weird Again"],
+  interests: [`Music Production`, `UI Design`, `Making the Internet Weird Again`],
 };
 
 ```
