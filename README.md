@@ -1,7 +1,7 @@
 ```javascript
 const braxtonJones = {
   openForOpportunities: true,
-  currentJobTitle: "____",
+  currentJobTitle: "",
   currentlyLearning: ["Rust", "UI/UX Design"],
   contact: {
     email: "braxtonjonesdev@gmail.com",        
