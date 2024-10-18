@@ -1,16 +1,14 @@
-👋 Hi, I'm Braxton Jones—a web developer with a passion for turning complex ideas into user-friendly solutions. Currently learning Go to break away from Javascript (finally), I'm always on the lookout for new opportunities to build innovative projects. 
+👋 Hi, I'm Braxton Jones—a web developer passionate about turning complex ideas into user-friendly, real-world applications.
 
-My toolkit includes:  
-- **Frontend:** React, CSS, JavaScript, NextJS, TailwindCSS  
-- **State Management:** Zustand, Redux  
-- **Backend:** Node.js, Express  
-- **Testing:** Jest, Cypress, Vitest, React Testing Library  
-- **Database:** Postgres, SQLite, MongoDB, Prisma, DrizzleORM, GraphQL  
+I'm actively coding solutions that solve everyday problems, with the goal of landing a role where I can both contribute and grow. This would allow me to spend more time researching intersections between music and technology, my true passion! From audio-reactive visuals to sound synthesis tools, I’m driven by the idea of combining music and code to create innovative, interactive experiences.
+My toolkit includes:
 
-I’m particularly excited by anything that combines music and coding. If you have a cool project or just want to chat about building better products, feel free to reach out!
+    Frontend: React, CSS, JavaScript, NextJS, TailwindCSS
+    State Management: Zustand, Redux
+    Backend: Node.js, Express
+    Testing: Jest, Cypress, Vitest, React Testing Library
+    Database: Postgres, SQLite, MongoDB, Prisma, DrizzleORM, GraphQL
 
-📧 Contact: [braxtonjonesdev@gmail.com](mailto:braxtonjonesdev@gmail.com)
+I’m always excited to collaborate on projects, especially those that bridge music and technology. If you're working on something cool or just want to chat about building better products, let’s connect!
 
-
-
-
+📧 Contact: braxtonjonesdev@gmail.com
