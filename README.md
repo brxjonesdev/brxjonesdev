@@ -5,7 +5,7 @@ My toolkit includes:
 
     Frontend: React, CSS, JavaScript, NextJS, TailwindCSS
     State Management: Zustand, Redux
-    Backend: Node.js, Express
+    Backend: Node.js, Express, Go
     Testing: Jest, Cypress, Vitest, React Testing Library
     Database: Postgres, SQLite, MongoDB, Prisma, DrizzleORM, GraphQL
 
