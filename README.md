@@ -16,8 +16,8 @@ I've got skills in:
 
 ## Let's Connect!  
 Want to get in touch? Here's how:  
-* **Email**: [braxton.jones@example.com](mailto:braxtonjonesdev@gmail.com) 
-* **LinkedIn**: [https://www.linkedin.com/in/braxtonjones/](https://www.linkedin.com/in/brxjonesdev/) 
+* **Email**: [My Email](mailto:braxtonjonesdev@gmail.com) 
+* **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/brxjonesdev/) 
 
 ## Fun Facts  
 * I love all kinds of music from **Metalcore** , **EDM** to **K-Pop**
