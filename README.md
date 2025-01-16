@@ -16,7 +16,7 @@ I've got skills in:
 
 ## Let's Connect!  
 Want to get in touch? Here's how:  
-* **Email**: [braxton.jones@example.com](mailto:braxton.jonesdev@gmail.com) 
+* **Email**: [braxton.jones@example.com](mailto:braxtonjonesdev@gmail.com) 
 * **LinkedIn**: [https://www.linkedin.com/in/braxtonjones/](https://www.linkedin.com/in/braxtonjones/) 
 
 ## Fun Facts  
