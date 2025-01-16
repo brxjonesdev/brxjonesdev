@@ -6,7 +6,6 @@ I'm excited to connect with you and share my projects, ideas, and experience! �
 I'm working on some cool stuff, and I'd love for you to check it out:  
 * [**Palete**](https://palete.vercel.app/) 🍽️ - An app helping picky eaters discover new foods by suggesting meals based on preferences. Built with **NextJS**, **Rust**, and **Supabase**.
 * [**Hues**](https://pickrypt.netlify.app/) 🎨 - Helps developer stop worrying about colors and typography. Less Design, More Development. Built with **NextJS**, **Rust**, and **TypeScript**.  
-* [**Pickrypt**](https://pickrypt.netlify.app/) 🔐 - A steganography tool that lets users hide secret messages in images. Built with **NextJS**, **Rust**, and **TypeScript**.  
 * [**DayZero**](https://dayzero-ttsl.netlify.app/) 📖 - A journaling app with goal and mood tracking to help users stay productive. Built with **NextJS**, **Supabase**, and **TailwindCSS**. 
 
 ## What I'm Good At  
