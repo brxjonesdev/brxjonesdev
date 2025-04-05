@@ -12,8 +12,3 @@ I've got skills in:
 Want to get in touch? Here's how:  
 * **Email**: [My Email](mailto:braxtonjonesdev@gmail.com) 
 * **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/brxjonesdev/) 
-
-## Fun Facts  
-* I love all kinds of music from **Metalcore** , **EDM** to **K-Pop**
-* My favorite music group is **Red Velvet**, *bias is Irene BTW* 💖  
-* **Tea** 🍵 > **Coffee** ☕  
