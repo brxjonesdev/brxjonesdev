@@ -1,14 +1,19 @@
-Hi, I'm **Braxton Jones**! 👋  
-I'm a **developer** 💻 from the United States, currently living in the **DMV area** 🇺🇸.  
-I'm excited to connect with you and share my projects, ideas, and experience! 🚀
+Hi, I’m **Braxton Jones** 👋
+I’m a software developer based in the **DMV area (D.C., Maryland, Virginia)** 🇺🇸. I enjoy creating thoughtful, reliable software and building experiences that are intuitive, fast, and scalable.
 
-## What I'm Good At  
-I've got skills in:  
-* **Programming languages**: **JavaScript**, **Rust**, **TypeScript**, **HTML/CSS**  
-* **Frameworks**: **NextJS**, **React**, **TailwindCSS**, **Expo**  
-* **Tools**: **Docker**, **Kubernetes**, **AWS**, **PostgreSQL**, **Git**, **WebAssembly**, **GraphQL**
+I thrive in collaborative environments and enjoy working on products that make a meaningful impact. Whether it's frontend, backend, or somewhere in between, I bring a strong problem-solving mindset, attention to detail, and a desire to keep learning and growing.
 
-## Let's Connect!  
-Want to get in touch? Here's how:  
-* **Email**: [My Email](mailto:braxtonjonesdev@gmail.com) 
-* **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/brxjonesdev/) 
+## 🔍 Open to New Opportunities
+
+I'm currently exploring roles where I can:
+
+* Contribute to innovative and user-focused products
+* Be part of a supportive, forward-thinking team
+* Continue developing my skills while delivering real value
+
+## 📫 Let’s Connect
+
+If you're hiring or just want to connect, feel free to reach out:
+
+* **Email**: [braxtonjonesdev@gmail.com](mailto:braxtonjonesdev@gmail.com)
+* **LinkedIn**: [linkedin.com/in/brxjonesdev](https://www.linkedin.com/in/brxjonesdev/)
