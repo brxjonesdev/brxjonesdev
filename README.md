@@ -3,8 +3,6 @@ I’m a software developer based in the **DMV area (D.C., Maryland, Virginia)** 
 
 I thrive in collaborative environments and enjoy working on products that make a meaningful impact. Whether it's frontend, backend, or somewhere in between, I bring a strong problem-solving mindset, attention to detail, and a desire to keep learning and growing.
 
-## 🔍 Open to New Opportunities
-
 I'm currently exploring roles where I can:
 
 * Contribute to innovative and user-focused products
