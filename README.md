@@ -1,17 +1,21 @@
-Hi, I’m **Braxton Jones** 👋
-I’m a software developer based in the **DMV area (D.C., Maryland, Virginia)** 🇺🇸. I enjoy creating thoughtful, reliable software and building experiences that are intuitive, fast, and scalable.
+Hi, I’m **Braxton Jones** 👋  
+A software developer based in the **DMV area (D.C., Maryland, Virginia)**.
 
-I thrive in collaborative environments and enjoy working on products that make a meaningful impact. Whether it's frontend, backend, or somewhere in between, I bring a strong problem-solving mindset, attention to detail, and a desire to keep learning and growing.
+I’m passionate about building software that empowers creators. My current focus is on combining DSP and electronic music theory with modern web technologies like **React** and **Rust (WebAssembly)** to create fast, interactive, and scalable audio tools.
 
-I'm currently exploring roles where I can:
+Some of my key projects and interests include:  
+- Designing modular synths and custom oscillators in the browser  
+- Building a music-focused component library based on **shadcn**  
+- Creating interactive signal processing playgrounds for learning and teaching DSP concepts  
+- Developing filter and envelope visualizers for sound design exploration
 
-* Contribute to innovative and user-focused products
-* Be part of a supportive, forward-thinking team
-* Continue developing my skills while delivering real value
+#### What I’m Looking For  
+- Any roles where I can apply and grow my skills in React, Rust, and software development  
+- Opportunities to contribute to meaningful projects, whether in frontend or backend development  
 
-## 📫 Let’s Connect
+#### Let’s Connect  
+If you’re hiring or just want to chat about music tech, DSP, or software development:  
 
-If you're hiring or just want to connect, feel free to reach out:
+* **Email:** [braxtonjonesdev@gmail.com](mailto:braxtonjonesdev@gmail.com)  
+* **LinkedIn:** [linkedin.com/in/brxjonesdev](https://www.linkedin.com/in/brxjonesdev/)  
 
-* **Email**: [braxtonjonesdev@gmail.com](mailto:braxtonjonesdev@gmail.com)
-* **LinkedIn**: [linkedin.com/in/brxjonesdev](https://www.linkedin.com/in/brxjonesdev/)
